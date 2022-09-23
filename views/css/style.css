@@ -1,0 +1,11 @@
+.background{
+    background-color: rgb(55, 10, 97);
+}
+.mybtn:hover{
+    background-color: rgb(32, 2, 59);
+}
+.mybtn{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
